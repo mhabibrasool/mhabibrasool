@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on data scraping and project automation.
 - 👯 Looking to collaborate on open-source projects in data scraping and automation
 - 💬 Ask on **Python, Playwright, FastAPI, and Linux scripting**
-- 📫 How to reach me:  mhabibrasool@gmail.com
+- 📫 Reach me at :  mhabibrasool@gmail.com
 
 - 
 - ⚡ Fun fact: I automate boring things before I drink my tea ☕
