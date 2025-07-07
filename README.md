@@ -1,4 +1,4 @@
-<h1 align="center">Hi, Its me, Habib Rasool</h1>
+<h2 align="center">Hi, Its me, Habib Rasool</h2>
 <h3 align="center">Passionate Python programmer and automation enthusiast</h3>
 
 
