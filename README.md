@@ -19,3 +19,8 @@
   <img src="https://img.shields.io/badge/Playwright-2C2C32?style=flat&logo=playwright&logoColor=green"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
 </p>
+
+
+![Habib's GitHub stats](https://github-readme-stats.vercel.app/api?username=habibrasool&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habibrasool&layout=compact)
