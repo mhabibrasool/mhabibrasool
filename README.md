@@ -1,5 +1,5 @@
-<h2 align="center">Hi, Its me, Habib Rasool</h2>
-<h3 align="center">Passionate Python programmer and automation enthusiast</h3>
+<h3 align="center">Hi, Its me, Habib Rasool</h3>
+<h4 align="center">Passionate Python programmer and automation enthusiast</h4>
 
 
 - 🔭 I’m currently working on data scraping and project automation.
