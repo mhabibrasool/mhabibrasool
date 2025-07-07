@@ -1,17 +1,21 @@
 <h1 align="center">Hi, Its me, Habib Rasool</h1>
 <h3 align="center">Passionate Python programmer and automation enthusiast</h3>
 
-<!--
-**mhabibrasool/mhabibrasool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on data scraping and project automation.
+- 👯 Looking to collaborate on open-source projects in data scraping and automation
+- 💬 Ask on **Python, Playwright, FastAPI, and Linux scripting**
+- 📫 How to reach me:  mhabibrasool@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 
+- ⚡ Fun fact: I automate boring things before I drink my tea ☕
+
+
+### 🧰 Languages and Tools:
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Playwright-2C2C32?style=flat&logo=playwright&logoColor=green"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+</p>
