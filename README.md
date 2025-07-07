@@ -21,6 +21,6 @@
 </p>
 
 
-![Habib's GitHub stats](https://github-readme-stats.vercel.app/api?username=habibrasool&show_icons=true&theme=default)
+![Habib's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhabibrasool&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habibrasool&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhabibrasool&layout=compact)
