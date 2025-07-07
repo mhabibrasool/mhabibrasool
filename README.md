@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">Hi, Its me, Habib Rasool</h1>
+<h3 align="center">Passionate Python programmer and automation enthusiast</h3>
 
 <!--
 **mhabibrasool/mhabibrasool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
